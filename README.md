@@ -1,4 +1,4 @@
 # Shravan-sNotes
 mynotes
 <br>
-Author - Shravan Kumar
+Author - Shravan Kumar (G M)
